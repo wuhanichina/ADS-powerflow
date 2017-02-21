@@ -1,0 +1,6 @@
+InBus
+Cost
+MaxFreq
+MaxOnceTime
+MaxTime
+MinIntTime

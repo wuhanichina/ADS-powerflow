@@ -1,0 +1,10 @@
+InBus
+Cap
+MaxCharP
+MaxDisCharP
+MinCharP
+CharRate
+DisRate
+DOD
+SOH0
+SOC0
